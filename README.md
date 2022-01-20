@@ -47,7 +47,7 @@ The everytime changing background rather than static one.
 
 ## Screenshots
 
-![App Screenshot](![image](https://user-images.githubusercontent.com/42742924/150360629-1c2df672-e027-4e67-ae07-531734634f23.png))
+[image](https://user-images.githubusercontent.com/42742924/150360629-1c2df672-e027-4e67-ae07-531734634f23.png)
 
 ## Tech Stack
 
